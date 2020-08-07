@@ -1,0 +1,17 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture"
+path="res://.import/Enemy02_Teal_Frame_2.png-185fb6165a3b46d975481cc87a1a58da.res"
+group_file="res://assets/sprite_atlas.png"
+valid=true
+[deps]
+
+
+source_file="res://assets/sprites/Enemy02_Teal_Frame_2.png"
+dest_files=[ "res://.import/Enemy02_Teal_Frame_2.png-185fb6165a3b46d975481cc87a1a58da.res" ]
+
+[params]
+
+atlas_file="res://assets/sprite_atlas.png"
+import_mode=0

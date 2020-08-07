@@ -1,0 +1,17 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture"
+path="res://.import/Laser_Small.png-2fd2b184f07189fc87f0892e4083123f.res"
+group_file="res://assets/sprite_atlas.png"
+valid=true
+[deps]
+
+
+source_file="res://assets/sprites/Laser_Small.png"
+dest_files=[ "res://.import/Laser_Small.png-2fd2b184f07189fc87f0892e4083123f.res" ]
+
+[params]
+
+atlas_file="res://assets/sprite_atlas.png"
+import_mode=0

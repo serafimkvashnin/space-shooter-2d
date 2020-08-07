@@ -1,0 +1,17 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture"
+path="res://.import/Asteroid 01.png-f857691032153b523c3a67f996f537ce.res"
+group_file="res://assets/sprite_atlas.png"
+valid=true
+[deps]
+
+
+source_file="res://assets/sprites/Asteroid 01.png"
+dest_files=[ "res://.import/Asteroid 01.png-f857691032153b523c3a67f996f537ce.res" ]
+
+[params]
+
+atlas_file="res://assets/sprite_atlas.png"
+import_mode=0

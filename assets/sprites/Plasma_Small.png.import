@@ -1,0 +1,17 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture"
+path="res://.import/Plasma_Small.png-39b33f4f2fc5b74db3bf4083ee3ea589.res"
+group_file="res://assets/sprite_atlas.png"
+valid=true
+[deps]
+
+
+source_file="res://assets/sprites/Plasma_Small.png"
+dest_files=[ "res://.import/Plasma_Small.png-39b33f4f2fc5b74db3bf4083ee3ea589.res" ]
+
+[params]
+
+atlas_file="res://assets/sprite_atlas.png"
+import_mode=0

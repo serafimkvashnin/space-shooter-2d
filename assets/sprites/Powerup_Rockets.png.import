@@ -1,0 +1,17 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture"
+path="res://.import/Powerup_Rockets.png-6149135179efd4bc845e1d888a0cca61.res"
+group_file="res://assets/sprite_atlas.png"
+valid=true
+[deps]
+
+
+source_file="res://assets/sprites/Powerup_Rockets.png"
+dest_files=[ "res://.import/Powerup_Rockets.png-6149135179efd4bc845e1d888a0cca61.res" ]
+
+[params]
+
+atlas_file="res://assets/sprite_atlas.png"
+import_mode=0

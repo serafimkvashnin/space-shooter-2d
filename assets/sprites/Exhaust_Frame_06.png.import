@@ -1,0 +1,17 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture"
+path="res://.import/Exhaust_Frame_06.png-d113fb00b4c51c779fa3b01b4b4ce435.res"
+group_file="res://assets/sprite_atlas.png"
+valid=true
+[deps]
+
+
+source_file="res://assets/sprites/Exhaust_Frame_06.png"
+dest_files=[ "res://.import/Exhaust_Frame_06.png-d113fb00b4c51c779fa3b01b4b4ce435.res" ]
+
+[params]
+
+atlas_file="res://assets/sprite_atlas.png"
+import_mode=0

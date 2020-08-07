@@ -1,0 +1,17 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture"
+path="res://.import/Enemy02Red_Frame_2.png-ee17b6e19a174d9f12fd12ab4de0c9c1.res"
+group_file="res://assets/sprite_atlas.png"
+valid=true
+[deps]
+
+
+source_file="res://assets/sprites/Enemy02Red_Frame_2.png"
+dest_files=[ "res://.import/Enemy02Red_Frame_2.png-ee17b6e19a174d9f12fd12ab4de0c9c1.res" ]
+
+[params]
+
+atlas_file="res://assets/sprite_atlas.png"
+import_mode=0

@@ -1,0 +1,17 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture"
+path="res://.import/Explosion01_Frame_07.png-7292eebef91cd00387e8536dceb92f99.res"
+group_file="res://assets/sprite_atlas.png"
+valid=true
+[deps]
+
+
+source_file="res://assets/sprites/Explosion01_Frame_07.png"
+dest_files=[ "res://.import/Explosion01_Frame_07.png-7292eebef91cd00387e8536dceb92f99.res" ]
+
+[params]
+
+atlas_file="res://assets/sprite_atlas.png"
+import_mode=0

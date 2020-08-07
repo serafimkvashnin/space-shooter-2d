@@ -1,0 +1,17 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture"
+path="res://.import/Powerup_Ammo.png-6a81aa66bb21d0c44d747b9e27c58a36.res"
+group_file="res://assets/sprite_atlas.png"
+valid=true
+[deps]
+
+
+source_file="res://assets/sprites/Powerup_Ammo.png"
+dest_files=[ "res://.import/Powerup_Ammo.png-6a81aa66bb21d0c44d747b9e27c58a36.res" ]
+
+[params]
+
+atlas_file="res://assets/sprite_atlas.png"
+import_mode=0

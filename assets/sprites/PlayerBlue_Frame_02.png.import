@@ -1,0 +1,17 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture"
+path="res://.import/PlayerBlue_Frame_02.png-68b659f4c4419724f8e63a8f7c274ae4.res"
+group_file="res://assets/sprite_atlas.png"
+valid=true
+[deps]
+
+
+source_file="res://assets/sprites/PlayerBlue_Frame_02.png"
+dest_files=[ "res://.import/PlayerBlue_Frame_02.png-68b659f4c4419724f8e63a8f7c274ae4.res" ]
+
+[params]
+
+atlas_file="res://assets/sprite_atlas.png"
+import_mode=0

@@ -1,0 +1,17 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture"
+path="res://.import/Laser_Large.png-db55ffabcfc66961723fa805bedcdfb1.res"
+group_file="res://assets/sprite_atlas.png"
+valid=true
+[deps]
+
+
+source_file="res://assets/sprites/Laser_Large.png"
+dest_files=[ "res://.import/Laser_Large.png-db55ffabcfc66961723fa805bedcdfb1.res" ]
+
+[params]
+
+atlas_file="res://assets/sprite_atlas.png"
+import_mode=0

@@ -1,0 +1,17 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture"
+path="res://.import/Minigun_Large.png-fdff88cf67c26d1210cd7594080cb0d0.res"
+group_file="res://assets/sprite_atlas.png"
+valid=true
+[deps]
+
+
+source_file="res://assets/sprites/Minigun_Large.png"
+dest_files=[ "res://.import/Minigun_Large.png-fdff88cf67c26d1210cd7594080cb0d0.res" ]
+
+[params]
+
+atlas_file="res://assets/sprite_atlas.png"
+import_mode=0
