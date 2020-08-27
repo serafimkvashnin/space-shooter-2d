@@ -1,7 +1,10 @@
 extends ParallaxBackground
 
+onready var space = get_parent()
 
-const SPEED: float = 400.0
+const SPEED = 400.0
+var speed = 0
 
 func _process(delta):
-	scroll_offset.x -= SPEED * delta
+	speed = SPEED + space.score * Constants.BACKGROUND_SPEED_MULTIPLIER
+	scroll_offset += Vector2.LEFT * speed * delta

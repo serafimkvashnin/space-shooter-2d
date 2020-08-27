@@ -6,12 +6,16 @@ onready var green_laser = preload("res://scenes/Green Laser.tscn")
 
 onready var timer = $Countdown
 
-func _process(delta):
+onready var space = get_node("/root/Space")
+
+
+func _process(_delta):
 	if _is_ready_to_fire():
 		_fire()
 
 
 func _fire():
+	timer.wait_time = space.meteor_spawn_delay / 2
 	timer.start()
 
 	for pos in fire_positions:

@@ -8,9 +8,26 @@
 
 config_version=4
 
-_global_script_classes=[  ]
+_global_script_classes=[ {
+"base": "Area2D",
+"class": "Laser",
+"language": "GDScript",
+"path": "res://scenes/laser.gd"
+}, {
+"base": "KinematicBody2D",
+"class": "Player",
+"language": "GDScript",
+"path": "res://entities/player/player.gd"
+}, {
+"base": "Node2D",
+"class": "Space",
+"language": "GDScript",
+"path": "res://scenes/space.gd"
+} ]
 _global_script_class_icons={
-
+"Laser": "",
+"Player": "",
+"Space": ""
 }
 
 [application]
@@ -18,6 +35,10 @@ _global_script_class_icons={
 config/name="Space Shooter 2D"
 run/main_scene="res://scenes/Space.tscn"
 config/icon="res://icon.png"
+
+[autoload]
+
+Constants="*res://constants.gd"
 
 [display]
 
@@ -45,7 +66,13 @@ KEY_FIRE={
 "events": [ Object(InputEventKey,"resource_local_to_scene":false,"resource_name":"","device":0,"alt":false,"shift":false,"control":false,"meta":false,"command":false,"pressed":false,"scancode":32,"unicode":0,"echo":false,"script":null)
  ]
 }
+KEY_RESTART={
+"deadzone": 0.5,
+"events": [ Object(InputEventKey,"resource_local_to_scene":false,"resource_name":"","device":0,"alt":false,"shift":false,"control":false,"meta":false,"command":false,"pressed":false,"scancode":82,"unicode":0,"echo":false,"script":null)
+ ]
+}
 
 [rendering]
 
 environment/default_environment="res://default_env.tres"
+quality/dynamic_fonts/use_oversampling=false
